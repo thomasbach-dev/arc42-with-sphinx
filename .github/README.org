@@ -1,0 +1,8 @@
+* Software Architecture with arc42 and Sphinx
+
+This is a template to documents software architectures using [[https://arc42.org/][arc42]] in /reStructuredText/
+(rst). Furthermore, this repository contains all bits to compile the documentation using [[https://www.sphinx-doc.org/][Sphinx]].
+
+** Development
+
+See the [[../README.md#Development][Development]] section in the README at the root of this repository.
