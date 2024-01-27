@@ -1,14 +1,19 @@
 {
-  description = "A very basic flake";
+  description = "Architecture documentation for {PROJECT}";
   inputs.nixpkgs.url = "github:NixOS/nixpkgs";
   outputs = { self, nixpkgs }:
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
+      pythonEnv = pkgs.python3.withPackages (ps: [ ps.sphinx ]);
     in {
       packages.${system} = rec {
-        hello = pkgs.hello;
-        default = hello;
+        architecture-docs = pkgs.stdenv.mkDerivation {
+          name = "architecture-docs";
+          src = ./.;
+          nativeBuildInputs = [ pythonEnv ];
+        };
+        default = architecture-docs;
       };
     };
 }
