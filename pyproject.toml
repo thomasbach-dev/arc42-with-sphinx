@@ -1,3 +1,4 @@
 [tool.rstcheck]
 ignore_directives = [ "toctree" ]
 ignore_roles = [ "ref" ]
+ignore_messages = '(Hyperlink target ".*" is not referenced\.$)'
