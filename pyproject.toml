@@ -1,0 +1,3 @@
+[tool.rstcheck]
+ignore_directives = [ "toctree" ]
+ignore_roles = [ "ref" ]
