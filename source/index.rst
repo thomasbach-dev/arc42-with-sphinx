@@ -13,8 +13,9 @@ Template Version 8.2 EN. (based upon AsciiDoc version), January 2023
 Created, maintained and © by Dr. Peter Hruschka, Dr. Gernot Starke and
 contributors. See https://arc42.org.
 
-Welcome to Architecture documentation for {PROJECT}'s documentation!
-====================================================================
+====================================================
+Welcome to Architecture documentation for {PROJECT}!
+====================================================
 
 .. toctree::
    :maxdepth: 2
