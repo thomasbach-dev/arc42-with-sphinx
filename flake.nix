@@ -5,14 +5,14 @@
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
-      pythonEnv =
-        pkgs.python3.withPackages (ps: [ ps.sphinx ps.sphinx-autobuild ]);
+      pythonEnv = pkgs.python3.withPackages
+        (ps: [ ps.sphinx ps.sphinx-autobuild ps.sphinxcontrib-plantuml ]);
     in {
       packages.${system} = rec {
         architecture-docs = pkgs.stdenv.mkDerivation {
           name = "architecture-docs";
           src = ./.;
-          nativeBuildInputs = [ pythonEnv ];
+          nativeBuildInputs = [ pythonEnv pkgs.plantuml ];
         };
         default = architecture-docs;
       };
