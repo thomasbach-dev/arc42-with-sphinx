@@ -10,6 +10,15 @@ Whitebox Overall System
 
 **<Overview Diagram>**
 
+.. uml::
+
+   component "SystemDiagram" {
+     [SubComponentA]
+     [SubComponentB]
+   }
+   InterfaceA - [SubComponentA]
+   InterfaceB - [SubComponentB]
+
 Motivation
    *<text explanation>*
 
