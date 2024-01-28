@@ -3,6 +3,14 @@
 Runtime View
 ============
 
+.. uml::
+
+   Alice -> Bob: Authentication Request
+   Bob --> Alice: Authentication Response
+
+   Alice -> Bob: Another authentication Request
+   Alice <-- Bob: Another authentication Response
+
 .. _`__runtime_scenario_1`:
 
 <Runtime Scenario 1>
