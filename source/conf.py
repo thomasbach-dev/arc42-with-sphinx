@@ -25,3 +25,9 @@ language = "en"
 
 html_theme = "alabaster"
 html_static_path = ["_static"]
+
+# -- Options for LaTeX output ------------------------------------------------
+
+# We usually want to start small. Change this to "manual" or remove the
+# following when you want to compile things into a book
+latex_theme = "howto"
