@@ -3,6 +3,15 @@
 This is a template to documents software architectures using [[https://arc42.org/][arc42]] in /reStructuredText/
 (rst). Furthermore, this repository contains all bits to compile the documentation using [[https://www.sphinx-doc.org/][Sphinx]].
 
+** Usage
+
+1. Clone this repository and replace all occurrences of ~{PROJECT}~ with the actual project name:
+   #+begin_src bash
+     find . -type f -exec sed -i 's/{PROJECT}/Concrete Project Name/g' {} +
+   #+end_src
+2. In [[../source/conf.py][source/conf.py]] replace ~{AUTHOR}~ with your name.
+3. Also remove the ~.github/~ directory.
+
 ** Development
 
 See the [[../README.md#Development][Development]] section in the README at the root of this repository.
