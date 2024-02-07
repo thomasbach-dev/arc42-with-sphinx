@@ -31,3 +31,4 @@ html_static_path = ["_static"]
 # We usually want to start small. Change this to "manual" or remove the
 # following when you want to compile things into a book
 latex_theme = "howto"
+latex_documents = [("index", "architecture.tex", project, author, latex_theme)]
