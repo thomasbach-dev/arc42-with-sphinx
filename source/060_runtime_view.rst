@@ -1,37 +1,28 @@
 .. _section-runtime-view:
 
-Runtime View
-============
+Laufzeitsicht
+=============
 
-.. uml::
+.. _`__emphasis_bezeichnung_laufzeitszenario_1_emphasis`:
 
-   Alice -> Bob: Authentication Request
-   Bob --> Alice: Authentication Response
+*<Bezeichnung Laufzeitszenario 1>*
+----------------------------------
 
-   Alice -> Bob: Another authentication Request
-   Alice <-- Bob: Another authentication Response
+-  <hier Laufzeitdiagramm oder Ablaufbeschreibung einfügen>
 
-.. _`__runtime_scenario_1`:
+-  <hier Besonderheiten bei dem Zusammenspiel der Bausteine in diesem
+   Szenario erläutern>
 
-<Runtime Scenario 1>
---------------------
+.. _`__emphasis_bezeichnung_laufzeitszenario_2_emphasis`:
 
--  *<insert runtime diagram or textual description of the scenario>*
-
--  *<insert description of the notable aspects of the interactions
-   between the building block instances depicted in this diagram.>*
-
-.. _`__runtime_scenario_2`:
-
-<Runtime Scenario 2>
---------------------
-
-.. _`_`:
+*<Bezeichnung Laufzeitszenario 2>*
+----------------------------------
 
 …
--
 
-.. _`__runtime_scenario_n`:
+.. _`__emphasis_bezeichnung_laufzeitszenario_n_emphasis`:
 
-<Runtime Scenario n>
---------------------
+*<Bezeichnung Laufzeitszenario n>*
+----------------------------------
+
+…

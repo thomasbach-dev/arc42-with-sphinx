@@ -1,14 +1,21 @@
-.. _section-quality-requirements:
+.. _section-quality-scenarios:
 
-Quality Requirements
-====================
+Qualitätsanforderungen
+======================
 
-.. _`_quality_tree`:
+.. container:: formalpara-title
 
-Quality Tree
-------------
+   **Weiterführende Informationen**
 
-.. _`_quality_scenarios`:
+Siehe `Qualitätsanforderungen <https://docs.arc42.org/section-10/>`__ in
+der online-Dokumentation (auf Englisch!).
 
-Quality Scenarios
------------------
+.. _`_qualit_tsbaum`:
+
+Qualitätsbaum
+-------------
+
+.. _`_qualit_tsszenarien`:
+
+Qualitätsszenarien
+------------------

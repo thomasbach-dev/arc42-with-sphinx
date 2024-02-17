@@ -1,21 +1,16 @@
-.. Architecture documentation for {PROJECT} documentation master file, created by
-   sphinx-quickstart on Sat Jan 27 21:28:54 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+**Über arc42**
 
-**About arc42**
+arc42, das Template zur Dokumentation von Software- und
+Systemarchitekturen.
 
-arc42, the template for documentation of software and system
-architecture.
-
-Template Version 8.2 EN. (based upon AsciiDoc version), January 2023
+Template Version 8.2 DE. (basiert auf AsciiDoc Version), Januar 2023
 
 Created, maintained and © by Dr. Peter Hruschka, Dr. Gernot Starke and
-contributors. See https://arc42.org.
+contributors. Siehe https://arc42.org.
 
-====================================================
-Welcome to Architecture documentation for {PROJECT}!
-====================================================
+=====================================
+Architektur Dokumentation für ZIT PKI
+=====================================
 
 .. toctree::
    :maxdepth: 2

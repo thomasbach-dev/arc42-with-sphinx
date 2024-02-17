@@ -1,4 +1,4 @@
-.. _section-architecture-decisions:
+.. _section-design-decisions:
 
-Architecture Decisions
-======================
+Architekturentscheidungen
+=========================

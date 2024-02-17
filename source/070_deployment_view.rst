@@ -1,48 +1,48 @@
 .. _section-deployment-view:
 
-Deployment View
-===============
+Verteilungssicht
+================
 
-.. _`_infrastructure_level_1`:
+.. _`_infrastruktur_ebene_1`:
 
-Infrastructure Level 1
-----------------------
+Infrastruktur Ebene 1
+---------------------
 
-**<Overview Diagram>**
+**<Übersichtsdiagramm>**
 
-Motivation
-   *<explanation in text form>*
+Begründung
+   *<Erläuternder Text>*
 
-Quality and/or Performance Features
-   *<explanation in text form>*
+Qualitäts- und/oder Leistungsmerkmale
+   *<Erläuternder Text>*
 
-Mapping of Building Blocks to Infrastructure
-   *<description of the mapping>*
+Zuordnung von Bausteinen zu Infrastruktur
+   *<Beschreibung der Zuordnung>*
 
-.. _`_infrastructure_level_2`:
+.. _`_infrastruktur_ebene_2`:
 
-Infrastructure Level 2
-----------------------
+Infrastruktur Ebene 2
+---------------------
 
-.. _`__emphasis_infrastructure_element_1_emphasis`:
+.. _`__emphasis_infrastrukturelement_1_emphasis`:
 
-*<Infrastructure Element 1>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*<Infrastrukturelement 1>*
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*<diagram + explanation>*
+*<Diagramm + Erläuterungen>*
 
-.. _`__emphasis_infrastructure_element_2_emphasis`:
+.. _`__emphasis_infrastrukturelement_2_emphasis`:
 
-*<Infrastructure Element 2>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*<Infrastrukturelement 2>*
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*<diagram + explanation>*
+*<Diagramm + Erläuterungen>*
 
 …
 
-.. _`__emphasis_infrastructure_element_n_emphasis`:
+.. _`__emphasis_infrastrukturelement_n_emphasis`:
 
-*<Infrastructure Element n>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*<Infrastrukturelement n>*
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*<diagram + explanation>*
+*<Diagramm + Erläuterungen>*

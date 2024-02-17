@@ -1,14 +1,14 @@
 .. _section-building-block-view:
 
-Building Block View
-===================
+Bausteinsicht
+=============
 
-.. _`_whitebox_overall_system`:
+.. _`_whitebox_gesamtsystem`:
 
-Whitebox Overall System
------------------------
+Whitebox Gesamtsystem
+---------------------
 
-**<Overview Diagram>**
+**<Übersichtsdiagramm>**
 
 .. uml::
 
@@ -19,108 +19,108 @@ Whitebox Overall System
    InterfaceA - [SubComponentA]
    InterfaceB - [SubComponentB]
 
-Motivation
-   *<text explanation>*
+Begründung
+   *<Erläuternder Text>*
 
-Contained Building Blocks
-   *<Description of contained building block (black boxes)>*
+Enthaltene Bausteine
+   *<Beschreibung der enthaltenen Bausteine (Blackboxen)>*
 
-Important Interfaces
-   *<Description of important interfaces>*
+Wichtige Schnittstellen
+   *<Beschreibung wichtiger Schnittstellen>*
 
-.. _`__name_black_box_1`:
+.. _`__name_blackbox_1`:
 
-<Name black box 1>
-~~~~~~~~~~~~~~~~~~
+<Name Blackbox 1>
+~~~~~~~~~~~~~~~~~
 
-*<Purpose/Responsibility>*
+*<Zweck/Verantwortung>*
 
-*<Interface(s)>*
+*<Schnittstelle(n)>*
 
-*<(Optional) Quality/Performance Characteristics>*
+*<(Optional) Qualitäts-/Leistungsmerkmale>*
 
-*<(Optional) Directory/File Location>*
+*<(Optional) Ablageort/Datei(en)>*
 
-*<(Optional) Fulfilled Requirements>*
+*<(Optional) Erfüllte Anforderungen>*
 
-*<(optional) Open Issues/Problems/Risks>*
+*<(optional) Offene Punkte/Probleme/Risiken>*
 
-.. _`__name_black_box_2`:
+.. _`__name_blackbox_2`:
 
-<Name black box 2>
-~~~~~~~~~~~~~~~~~~
+<Name Blackbox 2>
+~~~~~~~~~~~~~~~~~
 
-*<black box template>*
+*<Blackbox-Template>*
 
-.. _`__name_black_box_n`:
+.. _`__name_blackbox_n`:
 
-<Name black box n>
-~~~~~~~~~~~~~~~~~~
+<Name Blackbox n>
+~~~~~~~~~~~~~~~~~
 
-*<black box template>*
+*<Blackbox-Template>*
 
-.. _`__name_interface_1`:
+.. _`__name_schnittstelle_1`:
 
-<Name interface 1>
-~~~~~~~~~~~~~~~~~~
-
-…
-
-.. _`__name_interface_m`:
-
-<Name interface m>
-~~~~~~~~~~~~~~~~~~
-
-.. _`_level_2`:
-
-Level 2
--------
-
-.. _`_white_box_emphasis_building_block_1_emphasis`:
-
-White Box *<building block 1>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*<white box template>*
-
-.. _`_white_box_emphasis_building_block_2_emphasis`:
-
-White Box *<building block 2>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*<white box template>*
+<Name Schnittstelle 1>
+~~~~~~~~~~~~~~~~~~~~~~
 
 …
 
-.. _`_white_box_emphasis_building_block_m_emphasis`:
+.. _`__name_schnittstelle_m`:
 
-White Box *<building block m>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<Name Schnittstelle m>
+~~~~~~~~~~~~~~~~~~~~~~
 
-*<white box template>*
+.. _`_ebene_2`:
 
-.. _`_level_3`:
-
-Level 3
+Ebene 2
 -------
 
-.. _`_white_box_building_block_x_1`:
+.. _`_whitebox_emphasis_baustein_1_emphasis`:
 
-White Box *<_building block x.1_>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Whitebox *<Baustein 1>*
+~~~~~~~~~~~~~~~~~~~~~~~
 
-*<white box template>*
+*<Whitebox-Template>*
 
-.. _`_white_box_building_block_x_2`:
+.. _`_whitebox_emphasis_baustein_2_emphasis`:
 
-White Box *<_building block x.2_>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Whitebox *<Baustein 2>*
+~~~~~~~~~~~~~~~~~~~~~~~
 
-*<white box template>*
+*<Whitebox-Template>*
 
-.. _`_white_box_building_block_y_1`:
+…
 
-White Box *<_building block y.1_>*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _`_whitebox_emphasis_baustein_m_emphasis`:
 
-*<white box template>*
+Whitebox *<Baustein m>*
+~~~~~~~~~~~~~~~~~~~~~~~
+
+*<Whitebox-Template>*
+
+.. _`_ebene_3`:
+
+Ebene 3
+-------
+
+.. _`_whitebox_baustein_x_1`:
+
+Whitebox <Baustein x.1>
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*<Whitebox-Template>*
+
+.. _`_whitebox_baustein_x_2`:
+
+Whitebox <Baustein x.2>
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*<Whitebox-Template>*
+
+.. _`_whitebox_baustein_y_1`:
+
+Whitebox <Baustein y.1>
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*<Whitebox-Template>*

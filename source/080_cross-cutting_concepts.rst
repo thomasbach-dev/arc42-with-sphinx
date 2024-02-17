@@ -1,27 +1,27 @@
-.. _section-cross-cutting-concepts:
+.. _section-concepts:
 
-Cross-cutting Concepts
-======================
+Querschnittliche Konzepte
+=========================
 
-.. _`__emphasis_concept_1_emphasis`:
+.. _`__emphasis_konzept_1_emphasis`:
 
-*<Concept 1>*
+*<Konzept 1>*
 -------------
 
-*<explanation>*
+*<Erklärung>*
 
-.. _`__emphasis_concept_2_emphasis`:
+.. _`__emphasis_konzept_2_emphasis`:
 
-*<Concept 2>*
+*<Konzept 2>*
 -------------
 
-*<explanation>*
+*<Erklärung>*
 
 …
 
-.. _`__emphasis_concept_n_emphasis`:
+.. _`__emphasis_konzept_n_emphasis`:
 
-*<Concept n>*
+*<Konzept n>*
 -------------
 
-*<explanation>*
+*<Erklärung>*

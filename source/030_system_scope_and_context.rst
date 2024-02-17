@@ -1,12 +1,12 @@
 .. _section-system-scope-and-context:
 
-System Scope and Context
-========================
+Kontextabgrenzung
+=================
 
-.. _`_business_context`:
+.. _`_fachlicher_kontext`:
 
-Business Context
-----------------
+Fachlicher Kontext
+------------------
 
 .. uml::
 
@@ -19,17 +19,17 @@ Business Context
    [Second Component] --> [Third Component]
    [first-component] --> [Third Component]
 
-**<Diagram or Table>**
+**<Diagramm und/oder Tabelle>**
 
-**<optionally: Explanation of external domain interfaces>**
+**<optional: Erläuterung der externen fachlichen Schnittstellen>**
 
-.. _`_technical_context`:
+.. _`_technischer_kontext`:
 
-Technical Context
------------------
+Technischer Kontext
+-------------------
 
-**<Diagram or Table>**
+**<Diagramm oder Tabelle>**
 
-**<optionally: Explanation of technical interfaces>**
+**<optional: Erläuterung der externen technischen Schnittstellen>**
 
-**<Mapping Input/Output to Channels>**
+**<Mapping fachliche auf technische Schnittstellen>**

@@ -1,4 +1,4 @@
-.. _section-risks-and-technical-debts:
+.. _section-technical-risks:
 
-Risks and Technical Debts
-=========================
+Risiken und technische Schulden
+===============================
